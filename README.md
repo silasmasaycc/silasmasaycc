@@ -32,8 +32,8 @@ const aboutMe = {
 };
 const getCurrentWorkplace = () => ({
   workplace: {
-    company:  = 'Objective',
-    rank: = 'Front End'
+    company: 'Objective',
+    rank: 'Front End'
   }
 });
 const getLearning = () => ({
