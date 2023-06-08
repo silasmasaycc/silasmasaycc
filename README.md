@@ -32,15 +32,14 @@ const aboutMe = {
 };
 const getCurrentWorkplace = () => ({
   workplace: {
-    company: 'Objective',
+    company: 'Datamar',
     rank: 'Front End'
   }
 });
 const getLearning = () => ({
   content: [
-    'NextJS',
+    'Node.js',
     'Jest',
-    'Styled Components',
     'MySQL',
   ]
 });
